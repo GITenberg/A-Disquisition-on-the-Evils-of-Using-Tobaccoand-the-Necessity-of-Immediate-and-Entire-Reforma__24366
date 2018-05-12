@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26430'
     url: http://www.gutenberg.org/2009/agents/26430
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24366#A-Disquisition-on-the-Evils-of-Using-Tobaccoand-the-Necessity-of-Immediate-and-Entire-Reforma_
 gutenberg_issued: '2008-01-20'
 gutenberg_type: Text
 identifiers:
